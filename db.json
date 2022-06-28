@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "status": false
+    },
+    {
+      "id": "f952883c-564c-40a0-bbd5-eff26cab5cff",
+      "title": "raja",
+      "status": true
+    },
+    {
+      "id": "b13f35e2-4bb4-4c1b-952e-f8ca899dec93",
+      "title": "rahul",
+      "status": false
+    }
+  ]
+}
